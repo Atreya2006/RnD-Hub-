@@ -1,7 +1,6 @@
 # RnD-Hub-
 
 # Build your own Augmented Reality
-
 [C#: How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D](https://www.youtube.com/watch?v=uXNjNcqW4kY)
 
 [C#: How To Unity ARCore](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv)
