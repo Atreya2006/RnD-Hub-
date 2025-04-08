@@ -41,3 +41,18 @@
 
 [Python: Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
+# Some other resources for OpenGL
+
+(http://www.lighthouse3d.com/tutorials/glsl-12-tutorial/the-normal-matrix/)
+
+(https://www.songho.ca/opengl/gl_projectionmatrix.html)
+
+(http://devernay.free.fr/cours/opengl/materials.html)
+
+(http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/)
+
+(https://www.bitshiftprogrammer.com/p/shader-development-posts.html)
+
+(https://www.packtpub.com/en-us/learning/how-to-tutorials/rendering-stereoscopic-3d-models-using-opengl/)
+
+(https://github.com/adamnemecek/awesome-metal?tab=readme-ov-file)
