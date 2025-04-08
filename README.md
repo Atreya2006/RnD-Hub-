@@ -1,6 +1,6 @@
 # RnD-Hub-
 
-# Build your own Augmented Reality
+# Augmented Reality
 [C#: How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D](https://www.youtube.com/watch?v=uXNjNcqW4kY)
 
 [C#: How To Unity ARCore](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv)
@@ -13,7 +13,7 @@
 
 [Python: Augmented Reality with Python and OpenCV](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
 
-# Build your own 3D Renderer
+# 3D Renderer
 [C++: Introduction to Ray Tracing: a Simple Method for Creating 3D Images](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 
 [C++: How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
@@ -35,3 +35,9 @@
 [JavaScript / Pseudocode: Computer Graphics from scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 
 [Python: A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html)
+
+# Open CV
+[Python: Developing a License Plate Recognition System with Machine Learning in Python](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+
+[Python: Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+
